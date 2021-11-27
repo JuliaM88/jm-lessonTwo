@@ -14,3 +14,5 @@ git checkout -b <nazwa> create new branch and swich on this branch
 git branch 		check on which brach you are
 git checkout <name>	swich on the <name> branch
 
+This text is in branch B
+

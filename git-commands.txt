@@ -4,3 +4,6 @@ git add <nazwa.txt> 	dla dodania pliku do stage area
 git commit -m "comment"	dla komitu 	
 //git log 		historia commitów
 git checkout <hash>	przelączenie sie na wybrany komit 
+git remote add origin <adres repositiry>
+git remote --v    spradzic liste repository
+git push origin<branch rep> master  <branch>  wyslasc na repository

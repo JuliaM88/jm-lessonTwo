@@ -1,10 +1,16 @@
-git init . 		Dla inicjalizacji "repository"
-git status 		sprawdzenie statusu	
-git add <nazwa.txt> 	dla dodania pliku do stage area
-git commit -m "comment"	dla komitu 	
-//git log 		historia commitów
-git checkout <hash>	przelączenie sie na wybrany komit 
-git remote add origin <adres repositiry>
-git remote --v    	sprawdzic liste repository
-git push origin<branch rep> master  <branch>  wyslasc na repository
-git pull origin master	download 
+git init . 		for initiation / cretaing new repository
+git status 		check the status	
+git add <nazwa.txt> 	add file to stage area
+git commit -m "comment"	to commit 	
+//git log 		history of commits
+git checkout <hash>	swiching beetwen commits
+git remote add origin <adres repositiry>	creat connection
+git remote --v    	check list of repositiries
+git push origin<branch rep> master  <branch>  send to repositiry
+git pull origin master	download from repository
+
+
+git checkout -b <nazwa> create new branch and swich on this branch
+git branch 		check on which brach you are
+git checkout <name>	swich on the <name> branch
+

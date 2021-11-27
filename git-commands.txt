@@ -2,8 +2,8 @@ git init . 		for initiation / cretaing new repository
 git status 		check the status	
 git add <nazwa.txt> 	add file to stage area
 git add -u		add all chenged files
-??git ls
-??git ls -al
+ls
+ls -al
 git commit -m "comment"	to commit 	
 //git log 		history of commits
 git checkout <hash>	swiching beetwen commits

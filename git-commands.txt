@@ -1,6 +1,9 @@
 git init . 		for initiation / cretaing new repository
 git status 		check the status	
 git add <nazwa.txt> 	add file to stage area
+git add -u		add all chenged files
+??git ls
+??git ls -al
 git commit -m "comment"	to commit 	
 //git log 		history of commits
 git checkout <hash>	swiching beetwen commits
@@ -14,5 +17,7 @@ git checkout -b <nazwa> create new branch and swich on this branch
 git branch 		check on which brach you are
 git checkout <name>	swich on the <name> branch
 
-This is text mad in brnch A
+
+
+
 
